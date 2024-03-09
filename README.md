@@ -1,4 +1,4 @@
-# C-Gravity-Simulator
+# C Gravity Simulator
 An improvement over my [old gravity simulator in Haskell](https://github.com/FuzzyCat444/HaskellGravitySim).
 
 ![](/images/image1.png)
