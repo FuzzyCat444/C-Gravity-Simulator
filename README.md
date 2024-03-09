@@ -26,3 +26,5 @@ An improvement over my [old gravity simulator in Haskell](https://github.com/Fuz
 - BACKSPACE- delete all bodies and reset camera
 - CTRL + BACKSPACE - delete all bodies outside of visible grid radius
 - LEFT/RIGHT ARROWS - switch focus to a different body
+
+Skybox generated using [this space skybox maker](http://wwwtyro.github.io/space-3d/) with the seed "1tc6mu0dea68".
