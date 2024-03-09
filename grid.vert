@@ -64,10 +64,10 @@ float starWarp(float x2, float r) {
 }
 
 float blackHoleWarp(float x2, float r) {
-    r *= 40.0;
+    r *= 15.0;
     float r2 = r * r;
     x2 /= r2;
-    return 1.0 / x2;
+    return r / x2;
 }
 
 float warp(vec2 pos) {
