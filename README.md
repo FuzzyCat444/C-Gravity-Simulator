@@ -1,6 +1,6 @@
 # C Gravity Simulator
-An improvement over my [old gravity simulator in Haskell](https://github.com/FuzzyCat444/HaskellGravitySim).
-
+### An improvement over my [old gravity simulator in Haskell](https://github.com/FuzzyCat444/HaskellGravitySim).
+## -> [Youtube video](https://www.youtube.com/watch?v=biEbgRi2fsA)
 ![](/images/image1.png)
 ![](/images/image2.png)
 ![](/images/image3.png)
