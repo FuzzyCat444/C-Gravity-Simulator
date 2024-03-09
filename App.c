@@ -366,6 +366,8 @@ void App_update(App* app, double dt) {
         int bodyToDelete = screenCoordsToBodyId(app, mouse.x, mouse.y);
         if (bodyToDelete != -1) {
             Universe_pushState(universe);
+            if (camera->focusedBodyId == bodyToDelete)
+                focusOnBody(universe, -1);
             Universe_removeBody(universe, bodyToDelete);
         }
     }
