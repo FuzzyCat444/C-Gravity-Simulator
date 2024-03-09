@@ -27,4 +27,8 @@ An improvement over my [old gravity simulator in Haskell](https://github.com/Fuz
 - CTRL + BACKSPACE - delete all bodies outside of visible grid radius
 - LEFT/RIGHT ARROWS - switch focus to a different body
 
+## Building
+
+If the mouse sensitivity is off and you need to adjust it, you will need to edit Constants.h and recompile the program. Download the necessary libraries and set up the folders according to the library/include paths in build.bat, and the run build.bat. You will need GLFW3, GLAD, linmath.h, and lodepng. If you use a compiler other than mingw than you may need to further modify the compile command.
+
 Skybox generated using [this space skybox maker](http://wwwtyro.github.io/space-3d/) with the seed "1tc6mu0dea68".
