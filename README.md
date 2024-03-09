@@ -33,4 +33,4 @@ If the mouse sensitivity is off and you need to adjust it, you will need to edit
 
 ## Credit
 
-Skybox generated using [this space skybox maker](http://wwwtyro.github.io/space-3d/) with the seed "1tc6mu0dea68".
+Skybox generated using http://wwwtyro.github.io/space-3d/ with the seed "1tc6mu0dea68".
